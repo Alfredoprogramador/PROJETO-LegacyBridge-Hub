@@ -2,7 +2,7 @@
 
 ## Problema
 
-Empresas com legados críticos (mainframe, COBOL, VB6, bancos antigos, ERPs legados) precisam integrar e modernizar sem Big Bang.
+Empresas com legados críticos (mainframe, COBOL, VB6, bancos antigos, ERPs legados) precisam integrar e modernizar sem big bang.
 
 ## Objetivo arquitetural
 

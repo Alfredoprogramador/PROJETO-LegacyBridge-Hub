@@ -32,3 +32,9 @@ legacybridge-hub/
 
 - Arquitetura de alto nível: `/docs/architecture.md`
 - Catálogo inicial de adapters: `/docs/adapters-catalog.md`
+
+## Ambiente local (compose)
+
+1. Copie `.env.example` para `.env`
+2. Ajuste as credenciais para valores fortes
+3. Suba os serviços com `docker compose up -d`
