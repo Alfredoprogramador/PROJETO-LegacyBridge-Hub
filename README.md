@@ -36,5 +36,6 @@ legacybridge-hub/
 ## Ambiente local (compose)
 
 1. Crie o arquivo `.env` copiando `.env.example`
+   - `cp .env.example .env`
 2. Ajuste as credenciais para valores fortes
 3. Suba os serviços com `docker compose up -d`
