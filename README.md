@@ -1,4 +1,4 @@
-# PROJETO LegacyBridge Hub
+# Projeto LegacyBridge Hub
 
 Plataforma de integração e modernização gradual de sistemas legados.
 
@@ -35,6 +35,6 @@ legacybridge-hub/
 
 ## Ambiente local (compose)
 
-1. Copie `.env.example` para `.env`
+1. Crie o arquivo `.env` copiando `.env.example`
 2. Ajuste as credenciais para valores fortes
 3. Suba os serviços com `docker compose up -d`
